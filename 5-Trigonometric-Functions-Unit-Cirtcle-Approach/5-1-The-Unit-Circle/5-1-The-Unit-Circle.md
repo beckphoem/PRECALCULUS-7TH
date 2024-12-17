@@ -30,10 +30,10 @@ Since the point is in Quadrant IV, its y-coordinate msut be negative, so $\ y = 
 
 ## Terminal Points on the Unit Circle
 
-Suppose $t$  is a real number. If $ t \geq 0$, let's mark off a distance $ t$ along the unit circle, starting at the point $ (1, 0)$ and moving in a counterclockwise direction. If $ t < 0$ we mark off a distance $ \lvert t \rvert$ in a clockwise direction (Figure 2). In this way we arrive at a point $ P(x, y)$ on the unit circle. The point $ P(x, y) $ obtained in this way is called the **terminal point** determined by the real number $t$.
+Suppose $t$  is a real number. If $\ t \geq 0$, let's mark off a distance $ t$ along the unit circle, starting at the point $\ (1, 0)$ and moving in a counterclockwise direction. If $\ t < 0$ we mark off a distance $\ \lvert t \rvert$ in a clockwise direction (Figure 2). In this way we arrive at a point $ P(x, y)$ on the unit circle. The point $\ P(x, y) $ obtained in this way is called the **terminal point** determined by the real number $\ t$.
 
 
 ![alt text](image/5-1/2.png)
-The circumference of the unit circle is $ C = 2\pi (1) = 2\pi$. So if a point starts at $(1, 0)$ and moves counterclockwise all the way around the unit circle and returns to $ (1, 0)$, it travels a distance of $2\pi$. To move halfway around the circle, it travels a distance of $\frac{1}{2}(2\pi) = \pi$. To move a quarter of the distance around the circle, it travels a distance of $ \frac{1}{4}(2\pi) = \frac{\pi}{2}$. Where does the point end up when it travels these distances along the circle? From figure 3 we see, for example, that when it travels a distance of $\pi$ starting at $(1, 0)$, its terminal point is $(-1,0)$.
+The circumference of the unit circle is $\ C = 2\pi (1) = 2\pi$. So if a point starts at $\ (1, 0)$ and moves counterclockwise all the way around the unit circle and returns to $\ (1, 0)$, it travels a distance of $2\pi$. To move halfway around the circle, it travels a distance of $\ \frac{1}{2}(2\pi) = \pi$. To move a quarter of the distance around the circle, it travels a distance of $\ \frac{1}{4}(2\pi) = \frac{\pi}{2}$. Where does the point end up when it travels these distances along the circle? From figure 3 we see, for example, that when it travels a distance of $\pi$ starting at $\ (1, 0)$, its terminal point is $\ (-1,0)$.
 
 ![alt text](image/5-1/3.png)
