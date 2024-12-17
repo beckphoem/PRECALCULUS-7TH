@@ -20,10 +20,10 @@ P is on the unit circle
 
 ### EXAMPLE 2: Locating a Point on the Unit Circle
 
-The point $\ P(\sqrt3/2, y) $ is on the unit circle in Quadrant IV. Find its y-coordinate.
+The point $\ P\left(\sqrt3/2, y\right) $ is on the unit circle in Quadrant IV. Find its y-coordinate.
 
 > SOLUTION: Since the point is on the unit circle, we have <br>
-$\ \left( \frac{\sqrt{3}}{2}\right)^2 + y^2 = 1 $ <br>
+$\ \left( \frac{\sqrt3}{2}\right)^2 + y^2 = 1 $ <br>
 $\ y^2 = 1 - \frac{3}{4} = \frac{1}{4}$<br>
 $\ y = +- \frac{1}{2}$<br>
 Since the point is in Quadrant IV, its y-coordinate msut be negative, so $\ y = \frac{-1}{2}$
@@ -34,6 +34,6 @@ Suppose $t$  is a real number. If $\ t \geq 0$, let's mark off a distance $ t$ a
 
 
 ![alt text](image/5-1/2.png)
-The circumference of the unit circle is $\ C = 2\pi (1) = 2\pi$. So if a point starts at $\ (1, 0)$ and moves counterclockwise all the way around the unit circle and returns to $\ (1, 0)$, it travels a distance of $2\pi$. To move halfway around the circle, it travels a distance of $\ \frac{1}{2}(2\pi) = \pi$. To move a quarter of the distance around the circle, it travels a distance of $\ \frac{1}{4}(2\pi) = \frac{\pi}{2}$. Where does the point end up when it travels these distances along the circle? From figure 3 we see, for example, that when it travels a distance of $\pi$ starting at $\ (1, 0)$, its terminal point is $\ (-1,0)$.
+The circumference of the unit circle is $\ C = 2\pi (1) = 2\pi$. So if a point starts at $\ (1, 0)$ and moves counterclockwise all the way around the unit circle and returns to $\ (1, 0)$, it travels a distance of $2\pi$. To move halfway around the circle, it travels a distance of $\ \frac{1}{2}(2\pi) = \pi$. To move a quarter of the distance around the circle, it travels a distance of $\ \frac{1}{4}(2\pi) = \frac{\pi}{2}$. Where does the point end up when it travels these distances along the circle? From figure 3 we see, for example, that when it travels a distance of $\ pi$ starting at $\ \left(1, 0\right)$, its terminal point is $\ \left(-1,0\right)$.
 
 ![alt text](image/5-1/3.png)
